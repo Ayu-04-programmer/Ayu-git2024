@@ -2,5 +2,5 @@ Cara pembuatan tugas alpro2
 - Download Github
 - mencari tutorial fetch, pull, push dan branch
 - rekam diri dengan menjelaskan hal2 di atas
-- lakukan dengan teliti dan baik
 - edit video semenarik mungkin
+- upload di akun youtube masing-masing
