@@ -3,3 +3,4 @@ cara belajar python
 - memahami tipe-tipe data
 - mendownload python
 - membuat program sederhana
+- membuat video pembuatan program
